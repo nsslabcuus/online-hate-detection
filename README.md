@@ -10,3 +10,5 @@ Reading list of online hate detection
 
 ## Useful Models
 * [Deep Anomaly Detection on Attributed Networks](http://www.public.asu.edu/~jundongl/paper/SDM19_DOMINANT.pdf)
+
+## Papers on Graph Convolutional Networks (GCNs)
