@@ -17,6 +17,7 @@ Reading list of online hate detection
 * [Fairness in Deep Learning: A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
 * [A Benchmark Dataset for Learning to Intervene in Online Hate Speech](https://arxiv.org/pdf/1909.04251.pdf)
 * [PI-Bully: Personalized Cyberbullying Detection with Peer Influence](https://bullyblocker.project.asu.edu/sites/default/files/bullyblocker/files/pibully-ijcai2019.pdf)
+* [TEXTBUGGER: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/pdf/1812.05271.pdf)
 
 
 ## Useful Models
