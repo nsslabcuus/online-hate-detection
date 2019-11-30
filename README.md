@@ -13,7 +13,6 @@ Reading list of online hate detection
 * [Characterizing and Detecting Hateful Users on Twitter](https://arxiv.org/pdf/1803.08977.pdf)
 * [Peer to Peer Hate: Hate Speech Instigators and Their Targets](https://arxiv.org/pdf/1804.04649.pdf)
 * [Spread of Hate Speech in Online Social Media](http://delivery.acm.org/10.1145/3330000/3326034/p173-mathew.pdf?ip=99.5.126.124&id=3326034&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E268985512FAC63B9%2E4D4702B0C3E38B35&__acm__=1575085012_396cc711982d404d1b0fabf642dbc08f)
-* [On the Origins of Memes by Means of Fringe Web Communities](http://delivery.acm.org/10.1145/3280000/3278550/p188-Zannettou.pdf?ip=99.5.126.124&id=3278550&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E268985512FAC63B9%2E4D4702B0C3E38B35&__acm__=1575085074_e17afb8875a75bf5967fba6b8c95a864)
 * [Mobilizing the Trump Train: Understanding Collective Action in a Political Trolling Community](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17877/16999)
 * [Fairness in Deep Learning: A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
 * [A Benchmark Dataset for Learning to Intervene in Online Hate Speech](https://arxiv.org/pdf/1909.04251.pdf)
@@ -32,3 +31,9 @@ Reading list of online hate detection
 * [Deep Anomaly Detection on Attributed Networks](http://www.public.asu.edu/~jundongl/paper/SDM19_DOMINANT.pdf)
 * [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163.pdf)
 * [What Do We Understand About Convolutional Networks?](https://arxiv.org/pdf/1803.08834.pdf)
+
+## Papers/Articles on Memes
+* [Living the Meme: AI as Funny as Humans for Generating Image Captions](https://blogs.nvidia.com/blog/2018/07/18/deep-learning-generating-memes/)
+* [Memeify: A Large-Scale Meme Generation System](https://arxiv.org/pdf/1910.12279.pdf)
+* [SimMeme: A Search Engine for Internet Memes](https://ieeexplore.ieee.org/abstract/document/8731489)
+* [On the Origins of Memes by Means of Fringe Web Communities](http://delivery.acm.org/10.1145/3280000/3278550/p188-Zannettou.pdf?ip=99.5.126.124&id=3278550&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E268985512FAC63B9%2E4D4702B0C3E38B35&__acm__=1575085074_e17afb8875a75bf5967fba6b8c95a864)
