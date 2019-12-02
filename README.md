@@ -18,7 +18,7 @@ Reading list of online hate detection
 * [A Benchmark Dataset for Learning to Intervene in Online Hate Speech](https://arxiv.org/pdf/1909.04251.pdf)
 * [PI-Bully: Personalized Cyberbullying Detection with Peer Influence](https://bullyblocker.project.asu.edu/sites/default/files/bullyblocker/files/pibully-ijcai2019.pdf)
 * [TEXTBUGGER: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/pdf/1812.05271.pdf)
-* [Reading Thieves’ Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces] (https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
+* [Reading Thieves’ Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces]  (https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
 
 
 ## Useful Models
