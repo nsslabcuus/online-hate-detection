@@ -17,12 +17,26 @@ Reading list of online hate detection
 * [Fairness in Deep Learning: A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
 * [A Benchmark Dataset for Learning to Intervene in Online Hate Speech](https://arxiv.org/pdf/1909.04251.pdf)
 * [PI-Bully: Personalized Cyberbullying Detection with Peer Influence](https://bullyblocker.project.asu.edu/sites/default/files/bullyblocker/files/pibully-ijcai2019.pdf)
-* [TEXTBUGGER: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/pdf/1812.05271.pdf)
 * [Reading Thieves Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
+
+
+## Adversarial Text
+* [TEXTBUGGER: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/pdf/1812.05271.pdf)
+* [Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency](https://www.aclweb.org/anthology/P19-1103.pdf)
+* []()
+* [GENERATING NATURAL ADVERSARIAL EXAMPLES](https://arxiv.org/pdf/1710.11342.pdf)
+* [Combating Adversarial Misspellings with Robust Word Recognition](https://arxiv.org/pdf/1905.11268.pdf)
+* [Generating Natural Language Adversarial Examples](https://arxiv.org/pdf/1804.07998.pdf)
+* [NATURAL LANGUAGE ADVERSARIAL ATTACKS AND DEFENSES IN WORD LEVEL](https://arxiv.org/pdf/1909.06723.pdf)
+* [Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey](https://arxiv.org/pdf/1901.06796.pdf)
+* [Analysis Methods in Neural Language Processing: A Survey](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00254)
+* [Adversarial NAACL 2019](https://drive.google.com/drive/folders/1E4uHe4_TD4yDJws3t1kXJQanUFJiqpBB)
+* [Natural Adversarial Examples](https://arxiv.org/pdf/1907.07174.pdf)
 
 
 ## Useful Models
 * [Deep Anomaly Detection on Attributed Networks](http://www.public.asu.edu/~jundongl/paper/SDM19_DOMINANT.pdf)
+
 
 ## Papers on Graph Convolutional Networks (GCNs)
 * [Spam Review Detection with Graph Convolutional Networks](https://dl.acm.org/citation.cfm?id=3357820)
@@ -34,8 +48,13 @@ Reading list of online hate detection
 * [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163.pdf)
 * [What Do We Understand About Convolutional Networks?](https://arxiv.org/pdf/1803.08834.pdf)
 
+
 ## Papers/Articles on Memes
 * [Living the Meme: AI as Funny as Humans for Generating Image Captions](https://blogs.nvidia.com/blog/2018/07/18/deep-learning-generating-memes/)
 * [Memeify: A Large-Scale Meme Generation System](https://arxiv.org/pdf/1910.12279.pdf)
 * [SimMeme: A Search Engine for Internet Memes](https://ieeexplore.ieee.org/abstract/document/8731489)
 * [On the Origins of Memes by Means of Fringe Web Communities](http://delivery.acm.org/10.1145/3280000/3278550/p188-Zannettou.pdf?ip=99.5.126.124&id=3278550&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E268985512FAC63B9%2E4D4702B0C3E38B35&__acm__=1575085074_e17afb8875a75bf5967fba6b8c95a864)
+
+
+## Other Interesting Papers
+* [NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations](https://arxiv.org/pdf/1911.07399.pdf)
