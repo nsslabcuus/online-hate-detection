@@ -23,7 +23,6 @@ Reading list of online hate detection
 ## Adversarial Text
 * [TEXTBUGGER: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/pdf/1812.05271.pdf)
 * [Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency](https://www.aclweb.org/anthology/P19-1103.pdf)
-* []()
 * [GENERATING NATURAL ADVERSARIAL EXAMPLES](https://arxiv.org/pdf/1710.11342.pdf)
 * [Combating Adversarial Misspellings with Robust Word Recognition](https://arxiv.org/pdf/1905.11268.pdf)
 * [Generating Natural Language Adversarial Examples](https://arxiv.org/pdf/1804.07998.pdf)
