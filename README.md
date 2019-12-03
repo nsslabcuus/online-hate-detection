@@ -31,6 +31,9 @@ Reading list of online hate detection
 * [Analysis Methods in Neural Language Processing: A Survey](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00254)
 * [Adversarial NAACL 2019](https://drive.google.com/drive/folders/1E4uHe4_TD4yDJws3t1kXJQanUFJiqpBB)
 * [Natural Adversarial Examples](https://arxiv.org/pdf/1907.07174.pdf)
+* [FREELB: ENHANCED ADVERSARIAL TRAINING FOR LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1909.11764.pdf)
+* [Adversarial Training for Free!](https://arxiv.org/pdf/1904.12843.pdf)
+* [You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/pdf/1905.00877.pdf)
 
 
 ## Useful Models
