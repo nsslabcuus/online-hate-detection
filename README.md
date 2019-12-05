@@ -15,6 +15,8 @@ Reading list of online hate detection
 * [Spread of Hate Speech in Online Social Media](http://delivery.acm.org/10.1145/3330000/3326034/p173-mathew.pdf?ip=99.5.126.124&id=3326034&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E268985512FAC63B9%2E4D4702B0C3E38B35&__acm__=1575085012_396cc711982d404d1b0fabf642dbc08f)
 * [Mobilizing the Trump Train: Understanding Collective Action in a Political Trolling Community](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17877/16999)
 * [A Benchmark Dataset for Learning to Intervene in Online Hate Speech](https://arxiv.org/pdf/1909.04251.pdf)
+* [Stereotypical Bias Removal for Hate Speech Detection Task using Knowledge-based Generalizations](http://web2py.iiit.ac.in/research_centres/publications/download/inproceedings.pdf.81e9946d4209cacb.6d61696e2e706466.pdf)
+* [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163.pdf)
 
 
 ## Adversarial Text
