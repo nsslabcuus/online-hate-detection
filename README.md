@@ -14,10 +14,7 @@ Reading list of online hate detection
 * [Peer to Peer Hate: Hate Speech Instigators and Their Targets](https://arxiv.org/pdf/1804.04649.pdf)
 * [Spread of Hate Speech in Online Social Media](http://delivery.acm.org/10.1145/3330000/3326034/p173-mathew.pdf?ip=99.5.126.124&id=3326034&acc=ACTIVE%20SERVICE&key=A79D83B43E50B5B8%2EEB6DCC30042720A5%2E268985512FAC63B9%2E4D4702B0C3E38B35&__acm__=1575085012_396cc711982d404d1b0fabf642dbc08f)
 * [Mobilizing the Trump Train: Understanding Collective Action in a Political Trolling Community](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM18/paper/view/17877/16999)
-* [Fairness in Deep Learning: A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
 * [A Benchmark Dataset for Learning to Intervene in Online Hate Speech](https://arxiv.org/pdf/1909.04251.pdf)
-* [PI-Bully: Personalized Cyberbullying Detection with Peer Influence](https://bullyblocker.project.asu.edu/sites/default/files/bullyblocker/files/pibully-ijcai2019.pdf)
-* [Reading Thieves Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
 
 
 ## Adversarial Text
@@ -34,6 +31,7 @@ Reading list of online hate detection
 * [FREELB: ENHANCED ADVERSARIAL TRAINING FOR LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1909.11764.pdf)
 * [Adversarial Training for Free!](https://arxiv.org/pdf/1904.12843.pdf)
 * [You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/pdf/1905.00877.pdf)
+* [Reading Thieves Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
 
 
 ## Useful Models
@@ -60,3 +58,5 @@ Reading list of online hate detection
 
 ## Other Interesting Papers
 * [NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations](https://arxiv.org/pdf/1911.07399.pdf)
+* [PI-Bully: Personalized Cyberbullying Detection with Peer Influence](https://bullyblocker.project.asu.edu/sites/default/files/bullyblocker/files/pibully-ijcai2019.pdf)
+* [Fairness in Deep Learning: A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
