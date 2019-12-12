@@ -34,6 +34,10 @@ Reading list of online hate detection
 * [Adversarial Training for Free!](https://arxiv.org/pdf/1904.12843.pdf)
 * [You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle](https://arxiv.org/pdf/1905.00877.pdf)
 * [Reading Thieves Cant: Automatically Identifying and Understanding Dark Jargons from Cybercrime Marketplaces](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan_0.pdf)
+* [Generating Text via Adversarial Training](http://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf)
+* [GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution](https://arxiv.org/pdf/1611.04051.pdf)
+* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14344/14489)
+* [Defending Neural Backdoors via Generative Distribution Modeling](http://papers.nips.cc/paper/9550-defending-neural-backdoors-via-generative-distribution-modeling.pdf)
 
 
 ## Useful Models
