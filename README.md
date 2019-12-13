@@ -38,6 +38,7 @@ Reading list of online hate detection
 * [GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution](https://arxiv.org/pdf/1611.04051.pdf)
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14344/14489)
 * [Defending Neural Backdoors via Generative Distribution Modeling](http://papers.nips.cc/paper/9550-defending-neural-backdoors-via-generative-distribution-modeling.pdf)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 
 ## Useful Models
@@ -53,6 +54,7 @@ Reading list of online hate detection
 * [Deep Anomaly Detection on Attributed Networks](http://www.public.asu.edu/~jundongl/paper/SDM19_DOMINANT.pdf)
 * [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163.pdf)
 * [What Do We Understand About Convolutional Networks?](https://arxiv.org/pdf/1803.08834.pdf)
+* [Order Matters: Semantic-Aware Neural Networks for Binary Code Similarity Detection](https://keenlab.tencent.com/en/whitepapers/Ordermatters.pdf)
 
 
 ## Papers/Articles on Memes
