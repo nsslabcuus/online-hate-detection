@@ -39,6 +39,7 @@ Reading list of online hate detection
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14344/14489)
 * [Defending Neural Backdoors via Generative Distribution Modeling](http://papers.nips.cc/paper/9550-defending-neural-backdoors-via-generative-distribution-modeling.pdf)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+* [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/pdf/1707.07328.pdf)
 
 
 ## Useful Models
