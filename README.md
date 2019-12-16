@@ -68,3 +68,4 @@ Reading list of online hate detection
 * [NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations](https://arxiv.org/pdf/1911.07399.pdf)
 * [PI-Bully: Personalized Cyberbullying Detection with Peer Influence](https://bullyblocker.project.asu.edu/sites/default/files/bullyblocker/files/pibully-ijcai2019.pdf)
 * [Fairness in Deep Learning: A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
+* [“I am uncomfortable sharing what I can’t see”: Privacy Concerns of the Visually Impaired with Camera Based Assistive Applications](https://www.usenix.org/system/files/sec20spring_akter_prepub.pdf)
