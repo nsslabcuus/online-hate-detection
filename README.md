@@ -40,6 +40,12 @@ Reading list of online hate detection
 * [Defending Neural Backdoors via Generative Distribution Modeling](http://papers.nips.cc/paper/9550-defending-neural-backdoors-via-generative-distribution-modeling.pdf)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 * [Adversarial Examples for Evaluating Reading Comprehension Systems](https://arxiv.org/pdf/1707.07328.pdf)
+* [A Survey: Towards a Robust Deep Neural Network in Text Domain](https://arxiv.org/pdf/1902.07285.pdf)
+* [TextFool: Fool your Model with Natural Adversarial Text](http://groups.csail.mit.edu/medg/ftp/psz-papers/2019%20Di%20Jin.pdf)
+* [Universal Adversarial Perturbation for Text Classification](https://arxiv.org/pdf/1910.04618.pdf)
+* [Towards Robust Toxic Content Classification](https://arxiv.org/pdf/1912.06872.pdf)
+* [Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment](https://arxiv.org/pdf/1907.11932.pdf)
+* [Deep Text Classification Can be Fooled](https://arxiv.org/pdf/1704.08006.pdf)
 
 
 ## Useful Models
