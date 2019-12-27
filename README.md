@@ -46,6 +46,7 @@ Reading list of online hate detection
 * [Towards Robust Toxic Content Classification](https://arxiv.org/pdf/1912.06872.pdf)
 * [Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment](https://arxiv.org/pdf/1907.11932.pdf)
 * [Deep Text Classification Can be Fooled](https://arxiv.org/pdf/1704.08006.pdf)
+* [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)
 
 
 ## Useful Models
