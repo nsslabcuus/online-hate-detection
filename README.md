@@ -47,6 +47,11 @@ Reading list of online hate detection
 * [Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment](https://arxiv.org/pdf/1907.11932.pdf)
 * [Deep Text Classification Can be Fooled](https://arxiv.org/pdf/1704.08006.pdf)
 * [Adversarial Attacks and Defenses in Images, Graphs and Text: A Review](https://arxiv.org/pdf/1909.08072.pdf)
+* [Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples](https://arxiv.org/pdf/1803.01128.pdf)
+* [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/pdf/1908.07125.pdf)
+* [ADVCODEC: TOWARDS A UNIFIED FRAMEWORK FOR ADVERSARIAL TEXT GENERATION](https://arxiv.org/pdf/1912.10375.pdf)
+* [DETECTING EGREGIOUS RESPONSES IN NEURAL SEQUENCE-TO-SEQUENCE MODELS](http://groups.csail.mit.edu/sls/archives/root/publications/2019/TianxingHe_ICLR-2019.pdf)
+* [Say What I Want: Towards the Dark Side of Neural Dialogue Models](https://arxiv.org/pdf/1909.06044.pdf)
 
 
 ## Useful Models
