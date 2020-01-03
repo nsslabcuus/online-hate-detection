@@ -82,3 +82,4 @@ Reading list of online hate detection
 * [PI-Bully: Personalized Cyberbullying Detection with Peer Influence](https://bullyblocker.project.asu.edu/sites/default/files/bullyblocker/files/pibully-ijcai2019.pdf)
 * [Fairness in Deep Learning: A Computational Perspective](https://arxiv.org/pdf/1908.08843.pdf)
 * [“I am uncomfortable sharing what I can’t see”: Privacy Concerns of the Visually Impaired with Camera Based Assistive Applications](https://www.usenix.org/system/files/sec20spring_akter_prepub.pdf)
+* [Techniques for Interpretable Machine Learning](https://dl.acm.org/doi/pdf/10.1145/3359786?download=true)
