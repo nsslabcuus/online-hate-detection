@@ -53,6 +53,7 @@ Reading list of online hate detection
 * [DETECTING EGREGIOUS RESPONSES IN NEURAL SEQUENCE-TO-SEQUENCE MODELS](http://groups.csail.mit.edu/sls/archives/root/publications/2019/TianxingHe_ICLR-2019.pdf)
 * [Say What I Want: Towards the Dark Side of Neural Dialogue Models](https://arxiv.org/pdf/1909.06044.pdf)
 * [Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates](https://arxiv.org/pdf/1911.05332.pdf)
+* [Must-read Papers on Textual Adversarial Attack and Defense (TAAD)](https://github.com/thunlp/TAADpapers)
 
 
 ## Useful Models
