@@ -52,6 +52,7 @@ Reading list of online hate detection
 * [ADVCODEC: TOWARDS A UNIFIED FRAMEWORK FOR ADVERSARIAL TEXT GENERATION](https://arxiv.org/pdf/1912.10375.pdf)
 * [DETECTING EGREGIOUS RESPONSES IN NEURAL SEQUENCE-TO-SEQUENCE MODELS](http://groups.csail.mit.edu/sls/archives/root/publications/2019/TianxingHe_ICLR-2019.pdf)
 * [Say What I Want: Towards the Dark Side of Neural Dialogue Models](https://arxiv.org/pdf/1909.06044.pdf)
+* [Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates](https://arxiv.org/pdf/1911.05332.pdf)
 
 
 ## Useful Models
