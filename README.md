@@ -55,7 +55,6 @@ Reading list of online hate detection
 * [Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates](https://arxiv.org/pdf/1911.05332.pdf)
 * [Must-read Papers on Textual Adversarial Attack and Defense (TAAD)](https://github.com/thunlp/TAADpapers)
 * [On the Robustness of Self-Attentive Models](https://www.aclweb.org/anthology/P19-1147.pdf)
-* [Towards Robust Toxic Content Classification](https://arxiv.org/pdf/1912.06872.pdf)
 
 
 ## Useful Models
