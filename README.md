@@ -55,6 +55,8 @@ Reading list of online hate detection
 * [Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly-Evolving Online Debates](https://arxiv.org/pdf/1911.05332.pdf)
 * [Must-read Papers on Textual Adversarial Attack and Defense (TAAD)](https://github.com/thunlp/TAADpapers)
 * [On the Robustness of Self-Attentive Models](https://www.aclweb.org/anthology/P19-1147.pdf)
+* [How the Embedding Layers in BERT Were Implemented](https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a)
+* [TEXTSHIELD: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation](https://nesa.zju.edu.cn/download/TEXTSHIELD%20Robust%20Text%20Classification%20Based%20on%20Multimodal%20Embedding%20and%20Neural%20Machine%20Translation.pdf)
 
 
 ## Useful Models
