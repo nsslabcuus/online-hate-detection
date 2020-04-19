@@ -73,6 +73,7 @@ Reading list of online hate detection
 * [Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning](https://arxiv.org/pdf/1712.02051.pdf)
 * [Fooling Vision and Language Models Despite Localization and Attention Mechanism](https://arxiv.org/pdf/1709.08693.pdf)
 * [Adversarial Training and Robustness for Multiple Perturbations](https://arxiv.org/pdf/1904.13000.pdf)
+* [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml)
 
 
 ## Useful Models
