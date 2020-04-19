@@ -72,6 +72,7 @@ Reading list of online hate detection
 * [Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models](https://nips2018vigil.github.io/static/papers/accepted/33.pdf)
 * [Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning](https://arxiv.org/pdf/1712.02051.pdf)
 * [Fooling Vision and Language Models Despite Localization and Attention Mechanism](https://arxiv.org/pdf/1709.08693.pdf)
+* [Adversarial Training and Robustness for Multiple Perturbations](https://arxiv.org/pdf/1904.13000.pdf)
 
 
 ## Useful Models
