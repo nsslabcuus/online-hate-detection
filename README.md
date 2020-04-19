@@ -58,6 +58,13 @@ Reading list of online hate detection
 * [How the Embedding Layers in BERT Were Implemented](https://medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a)
 * [TEXTSHIELD: Robust Text Classification Based on Multimodal Embedding and Neural Machine Translation](https://nesa.zju.edu.cn/download/TEXTSHIELD%20Robust%20Text%20Classification%20Based%20on%20Multimodal%20Embedding%20and%20Neural%20Machine%20Translation.pdf)
 * [Hidden resilience and adaptive dynamics of the global online hate ecology](https://www.nature.com/articles/s41586-019-1494-7)
+* [Defending Against Neural Fake News](https://arxiv.org/pdf/1905.12616.pdf)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 ## Useful Models
