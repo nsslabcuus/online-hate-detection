@@ -74,6 +74,7 @@ Reading list of online hate detection
 * [Fooling Vision and Language Models Despite Localization and Attention Mechanism](https://arxiv.org/pdf/1709.08693.pdf)
 * [Adversarial Training and Robustness for Multiple Perturbations](https://arxiv.org/pdf/1904.13000.pdf)
 * [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml)
+* [A Survey of Black-Box Adversarial Attacks on Computer Vision Models](https://arxiv.org/pdf/1912.01667.pdf)
 
 
 ## Useful Models
