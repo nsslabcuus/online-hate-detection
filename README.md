@@ -76,6 +76,14 @@ Reading list of online hate detection
 * [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml)
 * [A Survey of Black-Box Adversarial Attacks on Computer Vision Models](https://arxiv.org/pdf/1912.01667.pdf)
 
+## Multimodal Adversarial Attacks
+* [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/pdf/1810.02338.pdf)
+* [What are you talking about? Text-to-Image Coreference](https://www.cs.unc.edu/~mbansal/papers/cvpr14_textImageCoref.pdf)
+* [Attend and Attack: Attention Guided Adversarial Attacks on Visual Question Answering Models](https://nips2018vigil.github.io/static/papers/accepted/33.pdf)
+* [Tutorial on Multimodal Machine Learning](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
+* [Fooling Vision and Language Models Despite Localization and Attention Mechanism](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Fooling_Vision_and_CVPR_2018_paper.pdf)
+* [Exact Adversarial Attack to Image Captioning via Structured Output Learning with Latent Variables](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Exact_Adversarial_Attack_to_Image_Captioning_via_Structured_Output_Learning_CVPR_2019_paper.pdf)
+
 
 ## Useful Models
 * [Deep Anomaly Detection on Attributed Networks](http://www.public.asu.edu/~jundongl/paper/SDM19_DOMINANT.pdf)
