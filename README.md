@@ -76,6 +76,17 @@ Reading list of online hate detection
 * [Awesome Multimodal ML](https://github.com/pliang279/awesome-multimodal-ml)
 * [A Survey of Black-Box Adversarial Attacks on Computer Vision Models](https://arxiv.org/pdf/1912.01667.pdf)
 
+## Adversarial Examples
+* [Adversarial examples: Attacks and defenses for deep learning](https://arxiv.org/pdf/1712.07107.pdf)
+* [On Evaluating Adversarial Robustness](https://arxiv.org/pdf/1902.06705.pdf)
+* [Adversarial Examples Are Not Bugs, They Are Features](http://papers.nips.cc/paper/8307-adversarial-examples-are-not-bugs-they-are-features.pdf)
+* [Deepsec: A uniform platform for security analysis of deep learning model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835375)
+* [Adversarial training and robustness for multiple perturbations](http://papers.nips.cc/paper/8821-adversarial-training-and-robustness-for-multiple-perturbations.pdf)
+* [On adaptive attacks to adversarial example defenses](https://arxiv.org/pdf/2002.08347.pdf)
+* [Benchmarking Adversarial Robustness](https://arxiv.org/pdf/1912.11852.pdf)
+* [Adversarial attacks and defenses in images, graphs and text: A review](https://link.springer.com/content/pdf/10.1007/s11633-019-1211-x.pdf)
+* [Towards a Robust Deep Neural Network in Texts: A Survey](https://arxiv.org/pdf/1902.07285.pdf)
+
 ## Multimodal Adversarial Attacks
 * [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/pdf/1810.02338.pdf)
 * [What are you talking about? Text-to-Image Coreference](https://www.cs.unc.edu/~mbansal/papers/cvpr14_textImageCoref.pdf)
@@ -83,7 +94,6 @@ Reading list of online hate detection
 * [Tutorial on Multimodal Machine Learning](https://www.cs.cmu.edu/~morency/MMML-Tutorial-ACL2017.pdf)
 * [Fooling Vision and Language Models Despite Localization and Attention Mechanism](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Fooling_Vision_and_CVPR_2018_paper.pdf)
 * [Exact Adversarial Attack to Image Captioning via Structured Output Learning with Latent Variables](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xu_Exact_Adversarial_Attack_to_Image_Captioning_via_Structured_Output_Learning_CVPR_2019_paper.pdf)
-
 
 ## Useful Models
 * [Deep Anomaly Detection on Attributed Networks](http://www.public.asu.edu/~jundongl/paper/SDM19_DOMINANT.pdf)
