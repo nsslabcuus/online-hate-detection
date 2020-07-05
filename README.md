@@ -86,6 +86,7 @@ Reading list of online hate detection
 * [Benchmarking Adversarial Robustness](https://arxiv.org/pdf/1912.11852.pdf)
 * [Adversarial attacks and defenses in images, graphs and text: A review](https://link.springer.com/content/pdf/10.1007/s11633-019-1211-x.pdf)
 * [Towards a Robust Deep Neural Network in Texts: A Survey](https://arxiv.org/pdf/1902.07285.pdf)
+* [Textual Adversarial Attack and Defense Reading List](https://github.com/thunlp/TAADpapers)
 
 ## Multimodal Adversarial Attacks
 * [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/pdf/1810.02338.pdf)
